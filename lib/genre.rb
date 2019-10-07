@@ -17,5 +17,4 @@ class Genre
     Song.map {|song| song.artist}
   end
 
-
 end
